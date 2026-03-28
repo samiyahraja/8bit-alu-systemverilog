@@ -1,2 +1,2 @@
 # 8bit-alu-systemverilog
-ALU
+Currently building ALU in SystemVerilog, implementing arithmetic and logic operations with testbench verificatio
